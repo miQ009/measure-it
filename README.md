@@ -92,3 +92,13 @@ The notebook contains the implementation workflow. The calibration parameters, t
 
 ## Status
 Core implementation and initial evaluation completed. Final packaging and submission preparation in progress.
+
+## Download Assets
+
+Large files are hosted on Google Drive due to GitHub file size limitations.
+
+- [Calibration Images](https://drive.google.com/drive/folders/1gg2RwZ4S2A3tOTM5c0RpBG8jSAh5l67P?usp=sharing)
+- [Dataset Images (70 images)](https://drive.google.com/drive/folders/1Kv3lPQ8vHWLgPkLuD3w9KX_U-Arl-l_Q?usp=sharing)
+- [Trained Mask R-CNN Model](https://drive.google.com/drive/folders/1q3_l1ffbPMbT2TaL1RB6EgaUXX6wRPOh?usp=sharing)
+
+Download these assets before running the notebook.
