@@ -1,0 +1,27 @@
+Camera Calibration
+Calibration Images: 20
+Checkerboard: 7x9 inner corners
+Square Size: 20 mm
+Calibration RMS: 1.510996
+
+Segmentation Model
+Architecture: Mask R-CNN ResNet50-FPN
+Training Images: 56
+Validation Images: 14
+Epochs: 10
+
+Evaluation
+Mean IoU: 0.9493
+COCO Segmentation AP: 0.943
+AP50: 1.000
+AP75: 1.000
+AR100: 0.957
+Image-level Precision: 1.000
+Image-level Recall: 1.000
+
+Measurement
+Reference: 150 mm ruler
+Automated: 89.37 x 58.41 mm
+Manual: 86 x 54 mm
+Length Error: 3.37 mm
+Width Error: 4.41 mm
